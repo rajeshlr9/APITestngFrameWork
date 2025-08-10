@@ -8,7 +8,7 @@
     <classes>
       <class name="api.test.DDTests">
         <methods>
-          <include name="testDeleteuser" invocation-numbers="0 1 3 4"/>
+          <include name="testDeleteuser" invocation-numbers="0 1 4"/>
         </methods>
       </class> <!-- api.test.DDTests -->
     </classes>
