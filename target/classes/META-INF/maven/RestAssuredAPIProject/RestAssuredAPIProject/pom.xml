@@ -52,6 +52,15 @@
   <dependencies>
 
 <dependency>
+  <groupId>org.projectlombok</groupId>
+  <artifactId>lombok</artifactId>
+  <version>1.18.30</version> <!-- latest as of now -->
+  <scope>provided</scope>
+</dependency>
+
+
+
+<dependency>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
       <version>5.5.5</version>

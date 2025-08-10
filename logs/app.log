@@ -43,3 +43,18 @@
 [INFO ] 2025-08-10 11:58:54.378 [main] DDTests - ****** User deleted as expected **** Uname015
 [INFO ] 2025-08-10 11:58:54.381 [main] DDTests - ****** DeleteUser test start **** 
 [INFO ] 2025-08-10 11:58:55.508 [main] DDTests - ****** User not deleted as expected **** Uname016
+[INFO ] 2025-08-10 12:03:05.191 [main] DDTests - ****** CreateUser test start **** 
+[INFO ] 2025-08-10 12:03:10.930 [main] DDTests - ****** CreateUser test start **** 
+[INFO ] 2025-08-10 12:03:12.089 [main] DDTests - ****** CreateUser test start **** 
+[INFO ] 2025-08-10 12:03:13.295 [main] DDTests - ****** CreateUser test start **** 
+[INFO ] 2025-08-10 12:03:14.472 [main] DDTests - ****** CreateUser test start **** 
+[INFO ] 2025-08-10 12:03:15.820 [main] DDTests - ****** DeleteUser test start **** 
+[INFO ] 2025-08-10 12:03:17.022 [main] DDTests - ****** User deleted as expected **** Uname012
+[INFO ] 2025-08-10 12:03:17.024 [main] DDTests - ****** DeleteUser test start **** 
+[INFO ] 2025-08-10 12:03:18.162 [main] DDTests - ****** User not deleted as expected **** Uname013
+[INFO ] 2025-08-10 12:03:18.187 [main] DDTests - ****** DeleteUser test start **** 
+[INFO ] 2025-08-10 12:03:19.359 [main] DDTests - ****** User not deleted as expected **** Uname014
+[INFO ] 2025-08-10 12:03:19.367 [main] DDTests - ****** DeleteUser test start **** 
+[INFO ] 2025-08-10 12:03:20.540 [main] DDTests - ****** User not deleted as expected **** Uname015
+[INFO ] 2025-08-10 12:03:20.543 [main] DDTests - ****** DeleteUser test start **** 
+[INFO ] 2025-08-10 12:03:21.672 [main] DDTests - ****** User deleted as expected **** Uname016
